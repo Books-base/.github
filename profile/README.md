@@ -15,17 +15,17 @@ Our catalog is constantly growing thanks to the active participation of our read
 
 All interactions with **Books_base** are handled through our **[Telegram bot](https://t.me/Books_base_bot)**. We offer a wide range of features, including:
 
-- 🔍 **[Search](#🔍-Search)**: Quick and convenient book searches by author, genre, title, and article number.
-- 🗃️ **[My Books](#🗃️-My-Books)**: All purchased books are saved in your profile for quick access.
-- 📝 **[Book Orders](#📝-Book-Orders)**: If a book is not in the library, you can order it, and we will try to add it to the catalog within 24 hours.
-- 📚 **[Promotions](#📚-Library-Promotions)**: Daily deals with special book offers.
-- ⚜️ **[Premium Status](#⚜️-Premium-Status)**: Unlimited access to the entire library.
-- 💎 **[Base_store](#💎-Base_store)**: Internal currency, base, which can be exchanged for discounts or free books.
-- 💳 **[Payment Methods](#💳-Payment-Methods)**: Payments through **YooMoney** or **Telegram stars**.
-- 💬 **[Technical Support](#💬-Technical-Support)**: Prompt resolution of any questions.
-- 🟠 **[And much more...](#🔒-Privacy-Policy)**
+- 🔍 **[Search](#-Search)**: Quick and convenient book searches by author, genre, title, and article number.
+- 🗃️ **[My Books](#-My-books)**: All purchased books are saved in your profile for quick access.
+- 📝 **[Book Orders](#-Book-Orders)**: If a book is not in the library, you can order it, and we will try to add it to the catalog within 24 hours.
+- 📚 **[Promotions](#-Library-Promotions)**: Daily deals with special book offers.
+- ⚜️ **[Premium Status](#-Premium-Status)**: Unlimited access to the entire library.
+- 💎 **[Base_store](#-Base_store)**: Internal currency, base, which can be exchanged for discounts or free books.
+- 💳 **[Payment Methods](#-Payment-Methods)**: Payments through **YooMoney** or **Telegram stars**.
+- 💬 **[Technical Support](#-Technical-Support)**: Prompt resolution of any questions.
+- 🟠 **[And much more...](#-Privacy-Policy)**
 
-> All the bot's features are described in the article **[Books_base bot commands](https://telegra.ph/Books-base-Bot-Commands-EN-10-14)**
+> All the bot's features are described in the article **[Books_base bot commands](https://telegra.ph/Books-base-Bot-Commands-EN-10-14)**.
 
 ## 🔍 Search
 
