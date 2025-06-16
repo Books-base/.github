@@ -1,11 +1,11 @@
 # 📖 Welcome to the Books_base Library!!
 
-![Books_base header](images/header.png)
+![Books_base header](images/Main_White_EN.png)
 
 
 ## 🟤 What is Books_base??
 
-![Books_base](images/books_base.png)
+![Books_base](images/Books_base_EN.png)
 
 **Books_base** is a unique e-book store where every book is priced at **85₽**. We simplify the purchasing process, making it transparent and accessible to all users.
 
@@ -61,7 +61,7 @@ If you can't find the book you're looking for in the library, use the `/order` c
 
 ## 📚 Library Promotions
 
-![Library Promotions](images/promotions.png)
+![Library Promotions](images/Promotion_White.png)
 
 **Books_base** offers unique promotions to help users buy books at more affordable prices:
 
@@ -76,7 +76,7 @@ If you can't find the book you're looking for in the library, use the `/order` c
 
 ## ⚜️ Premium Status
 
-![Premium Status](images/premium.png)
+![Premium](images/Premium.png)
 
 For **385₽**, you can purchase **Premium** Status, which grants unlimited access to the entire **Books_base** library. This gives you access to **over a thousand books** with no additional costs.
 
@@ -84,7 +84,7 @@ This is a **one-time** purchase, making reading affordable and beneficial for ac
 
 ## 💎 Base_store
 
-![Base_store](images/base_store.png)
+![Base_store](images/Base_store_EN.png)
 
 For every purchase you make at **Books_base**, you earn internal currency called **_base_**, which can be used in the **Base_store** to get discounts or free books:
 
@@ -97,7 +97,7 @@ You can also share **_base_** with friends using the `/share_base` command, help
 
 ## 💳 Payment Methods
 
-![Payment Methods](images/payment.png)
+![Payment](images/Payment_White.png)
 
 You can pay for books at **Books_base** using two methods:
 
@@ -114,7 +114,7 @@ We’re always ready to help and provide the most accurate solution.
 
 ## 🔒 Privacy Policy
 
-![Privacy Policy](images/privacy.png)
+![Privacy Policy](images/Privacy_EN.png)
 
 We collect minimal data to operate the service — your Telegram ID, username, and order information. All data is securely protected and is not shared with third parties.
 
