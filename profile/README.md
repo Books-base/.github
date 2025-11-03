@@ -1,144 +1,111 @@
-# 📖 Welcome to the Books_base Library!!
+# 📖 Добро пожаловать в библиотеку Books_base
 
-![Books_base header](/images/Main_White_EN.png)
+![Header](/articles/Books-base-09-11/header.png)
 
+**Books_base** — это онлайн-магазин электронных книг, где каждая книга стоит **85₽** во всех доступных форматах. Если
+нужного издания нет в каталоге, вы можете заказать его, и после обработки книга появится в библиотеке и будет доступна
+всем пользователям.
 
-## 🟤 What is Books_base??
+![Books_base](/articles/Books-base-09-11/books_base.png)
 
-![Books_base](/images/Books_base_EN.png)
+Мы гарантируем полное содержание, целостность файлов и отсутствие «урезанных» ознакомительных версий. Каждая книга перед
+добавлением проходит ручную проверку администратором.
 
-**Books_base** is a unique e-book store where every book is priced at **85₽**. We simplify the purchasing process, making it transparent and accessible to all users.
+## 💻📱 Платформы
 
-Our catalog is constantly growing thanks to the active participation of our readers, who can order new books and influence the expansion of the selection.
+![Platforms](/articles/Books-base-09-11/laptop-and-phone-site.png)
 
-## 🟤 How does it work??
+**Books_base** работает сразу на двух платформах: **[веб-сайт](https://booksbase.ru/)** и
+**[Telegram-бот](https://t.me/books_base_bot)**. Оба клиента полностью синхронизированы и имеют одинаковый функционал.
+Вы можете пользоваться только одним или сразу обоими — выбор за вами.
 
-All interactions with **Books_base** are handled through our **[Telegram bot](https://t.me/Books_base_bot)**. We offer a wide range of features, including:
+Функции обеих платформ включают:
 
-- 🔍 **[Search](#-Search)**: Quick and convenient book searches by author, genre, title, and article number.
-- 🗃️ **[My Books](#%EF%B8%8F-my-books)**: All purchased books are saved in your profile for quick access.
-- 📝 **[Book Orders](#-Book-Orders)**: If a book is not in the library, you can order it, and we will try to add it to the catalog within 24 hours.
-- 📚 **[Promotions](#-Library-Promotions)**: Daily deals with special book offers.
-- ⚜️ **[Premium Status](#%EF%B8%8F-Premium-Status)**: Unlimited access to the entire library.
-- 💎 **[Base_store](#-Base_store)**: Internal currency, base, which can be exchanged for discounts or free books.
-- 💳 **[Payment Methods](#-Payment-Methods)**: Payments through **YooMoney** or **Telegram stars**.
-- 💬 **[Technical Support](#-Technical-Support)**: Prompt resolution of any questions.
-- 🟠 **[And much more...](#-Privacy-Policy)**
+- 🔍 Поиск по авторам, названиям, жанрам и артикулам
+- 📂 Хранение купленных книг в личном кабинете
+- 📝 Заказ книг, отсутствующих в каталоге
+- 📚 Ежедневные акции
+- 💳 Простой способ оплаты
 
-> All the bot's features are described in the article **[Books_base bot commands](https://telegra.ph/Books-base-Bot-Commands-EN-10-14)**.
+## 📚 Ежедневные акции
 
-## 🔍 Search
+![Promotions](/articles/Books-base-09-11/three-phones.png)
 
-The **Books_base** search system allows you to find the books you need in seconds with high accuracy:
+Каждый день в библиотеке появляется новая книга по специальной цене — **50₽**. Акция действует в течение суток, после
+книга возвращается к стандартной цене **85₽**.
 
-- **By title**: Enter the book title, and the bot will show the relevant results.
-
-- **By author**: Enter the author's name to get a list of    all their books.
-
-- **By genre**: Choose or enter a genre to see all the books in that category.
-
-- **By article number**: If you know the book's article number, enter it, and the bot will instantly send you the book. _(You can find the article number at the bottom of each book post in our **[Telegram channel](https://t.me/Books_base)**)._
-
-For easy navigation through the search results, pagination buttons (⬅️/➡️) are provided to help you move between pages.
-
-The entire system is interactive — you can click on book titles, authors, genres, or article numbers for instant access or to copy information.
-
-## 🗃️ My Books
-
-The `/my_books` command gives you instant access to all the books you've purchased. This is your personal library where you can download and read the books you've bought at any time.
-
-Navigation is simplified with pagination buttons (⬅️/➡️), and the **«Read»** button sends you all available formats of the selected book.
+Информация о книге дня публикуется на главной странице сайта **[booksbase.ru](https://booksbase.ru/)** и в официальном
+**[Telegram-канале](https://t.me/books_base)**.
 
 > [!NOTE]\
-> Users with **Premium** status don’t need this command, as they have full access to the entire library.
+> **Примечание:** книги, добавленные по индивидуальным заказам пользователей, сохраняют свою стандартную цену **85₽**.
 
-## 📝 Book Orders
+## 📝 Заказ книг
 
-If you can't find the book you're looking for in the library, use the `/order` command to request it. We aim to add new books to the catalog within 24 hours, ensuring that your requests are fulfilled as quickly as possible.
-
-> [!NOTE]\
-> We reserve the right to refuse service for your order without providing reasons. We categorically do not add textbooks, study guides, workbooks, or books promoting Russian propaganda.
-
-## 📚 Library Promotions
-
-![Library Promotions](/images/Promotion_White.png)
-
-**Books_base** offers unique promotions to help users buy books at more affordable prices:
-
-- **Daily Promotion**: Every day, one new book is available for **50₽** for 24 hours.
+Если нужной книги нет в каталоге, её можно заказать прямо через [сайт](https://booksbase.ru/order/)
+или [Telegram-бота](http://t.me/books_base_bot) командой `/order`. После обработки книга появится в библиотеке и станет
+доступна всем пользователям.
 
 > [!NOTE]\
-> Books added by user request remain priced at **85₽**.
+> **Примечание:** мы не добавляем учебники, учебные пособия и рабочие тетради.
 
-- **Saturday Promotion**: Every Saturday, you can choose **three books for 150₽** by using the `/saturday` command.
+После того как заказ будет обслужен, вы получите уведомление на ваш **email**, указанный при регистрации на **сайте**,
+или прямо в **Telegram-бот**, если заказ был оформлен через него.
 
-> For more detailed information about promotions, read the article **[Library Promotions](https://telegra.ph/Books-base-Promotions-EN-10-16)**.
+Историю заказов можно найти в личном кабинете на [сайте](https://booksbase.ru/profile/my-orders/) или
+в [боте](https://t.me/books_base_bot) через команду `/my_orders`.
 
-## ⚜️ Premium Status
+## 💳 Оплата
 
-![Premium](/images/Premium.png)
+Покупки в **Books_base** оплачиваются через платёжную систему **Юmoney** — банковской картой или кошельком. Комиссия
+отсутствует.
 
-For **385₽**, you can purchase **Premium** Status, which grants unlimited access to the entire **Books_base** library. This gives you access to **over a thousand books** with no additional costs.
+После оплаты нажмите кнопку **«Уже оплатил»** на странице с книгой или в Telegram-боте, и вы мгновенно получите доступ к
+скачиванию файлов.
 
-This is a **one-time** purchase, making reading affordable and beneficial for active users.
+## 🔗 Привязка Telegram
 
-## 💎 Base_store
+Чтобы синхронизировать покупки и заказы между сайтом и ботом, достаточно привязать Telegram-аккаунт.
 
-![Base_store](/images/Base_store_EN.png)
+Для этого откройте раздел **[«Профиль»](https://booksbase.ru/profile/)** на сайте и нажмите кнопку
+**«Привязать Telegram»**. Откроется чат с ботом, где нужно нажать **«Начать»**. После этого все ваши заказы и книги
+будут доступны и на сайте, и в Telegram.
 
-For every purchase you make at **Books_base**, you earn internal currency called **_base_**, which can be used in the **Base_store** to get discounts or free books:
+## 📰 Новостной блог
 
-- **15%** discount — **20 _base_**
-- **30%** discount — **35 _base_**
-- **50%** discount — **45 _base_**
-- **Free book — 50 _base_**
+Мы публикует обновления, анонсы акций и полезные материалы в формате **Telegra.ph**. Статьи можно читать как
+на [сайте](https://booksbase.ru/updates/), так и в [боте](https://t.me/books_base_bot) через команду `/news`.
 
-You can also share **_base_** with friends using the `/share_base` command, helping them get discounts or free books.
+## 💬 Поддержка
 
-## 💳 Payment Methods
+Поддержка осуществляется через [Telegram-бота](https://t.me/books_base_bot?start=support). Если возникла проблема —
+обращайтесь через команду `/support`. Вы можете прикрепить фото или видео (до 10 файлов), чтобы показать ситуацию
+наглядно. Ответ от администратора Books_base придёт прямо в диалоге с ботом.
 
-![Payment](/images/Payment_White.png)
+## 🔒 Конфиденциальность
 
-You can pay for books at **Books_base** using two methods:
+![Privacy](/articles/Books-base-09-11/privacy.png)
 
-- **YooMoney**: Pay with a bank card through the **YooMoney** payment system, with no fees.
-- **Telegram stars**: Pay using Telegram’s internal currency — **_[stars](https://telegram.org/blog/telegram-stars?ln=r)_**. After completing the transaction, the bot will automatically send you the book files.
+Для работы сервиса **Books_base** собирает только минимальные данные: ваш Telegram ID, имя пользователя и email. Все
+данные защищены и не передаются третьим лицам.
 
-> For more detailed information about payment methods, read the article **[Payment and Return Policy](https://telegra.ph/Books-base-Payment-and-Refund-Policy-EN-10-15)**.
+> Полный текст доступен в [Telegram-боте](https://t.me/books_base_bot) по команде `/privacy` или в
+> статье [«Политика конфиденциальности Books_base»](https://telegra.ph/Books-base-Privacy-Policy-09-17).
 
-## 💬 Technical Support
+## 💥 Битый файл
 
-If you have any questions or issues, use the `/support` command to contact our support team. You can attach up to 10 photos or videos in one message to visually demonstrate the problem.
+Мы тщательно проверяем все книги, но если вы встретили повреждённый файл или неполное содержание — напишите
+в [поддержку](https://t.me/books_base_bot?start=support).
 
-We’re always ready to help and provide the most accurate solution.
+Мы заменим файл или удалим книгу из каталога, а в качестве компенсации предложим вам **3 книги бесплатно** на выбор,
+даже если их пока нет в библиотеке.
 
-## 🔒 Privacy Policy
+## ⚖️ Для правообладателей
 
-![Privacy Policy](/images/Privacy_EN.png)
-
-We collect minimal data to operate the service — your Telegram ID, username, and order information. All data is securely protected and is not shared with third parties.
-
-> For more details, read the article **[Books_base Privacy Policy](https://telegra.ph/Books-base-Privacy-Policy-EN-10-14)**.
-
-## 🔴 Refund Policy
-
-We check every book before adding it to the library to ensure it contains the full content. If you find an incomplete version of a book, contact support, and we’ll replace the product or offer a refund in **_stars_** or three free books.
-
-> Full details of the refund policy can be found in the article **[Payment and Return Policy](https://telegra.ph/Books-base-Payment-and-Refund-Policy-EN-10-15)**.
-
-## 📰 News Channels
-
-To stay updated on all the latest promotions, book releases, and updates from **Books_base**, subscribe to our Telegram channels:
-
-- **[Books_base | Электронные книги](https://t.me/Books_base)**  – the official and primary channel of the store.
-- **[Books_base | Новости](https://t.me/Books_base_news_ru)** – our Russian language news channel.
-- **[Books_base | News](https://t.me/Books_base_news_en)** – our English language news channel.
-- **[Books_base | Новини](https://t.me/Books_base_news_uk)** – our Ukrainian language news channel.
+Если вы являетесь правообладателем и обнаружили на платформе материалы, нарушающие ваши права — обратитесь в поддержку
+через [Telegram-бота](https://t.me/books_base_bot?start=support) по команде `/support`. Мы удалим контент в кратчайшие
+сроки.
 
 ---
 
-**Books_base** strives to make the book-buying process quick and convenient for every user. We appreciate your support and love seeing our library grow thanks to your orders. Discover new books and enjoy reading with **Books_base**!!
-
----
-
-> **Read and grow!!**
+> **Читай и развивайся!!**
